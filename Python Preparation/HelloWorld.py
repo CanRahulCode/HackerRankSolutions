@@ -26,6 +26,3 @@ Sample Output 0
 Hello, World!
 
 """
-
-git config --global user.email "rahulavulapati@gmail.com"
-  git config --global user.name "CanRahulCode"
