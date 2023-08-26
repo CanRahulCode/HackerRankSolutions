@@ -2,7 +2,7 @@ if __name__ == '__main__':
     print("Hello, World!")
 
 """
-Question
+First Question
 
 Here is a sample line of code that can be executed in Python:
 
@@ -24,5 +24,4 @@ Print Hello, World! to stdout.
 Sample Output 0
 
 Hello, World!
-
 """
