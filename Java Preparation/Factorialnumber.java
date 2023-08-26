@@ -8,7 +8,7 @@ public class Factorialnumber {
 		int a=1;
 		int b=1;
 		for(int i=1;i<=n;i++) {
-			System.out.print("The Factorial of:"+a);
+			System.out.print("The Factorial of is:"+a);
 			int sum=a+b;
 			a=b;
 			b=sum;
